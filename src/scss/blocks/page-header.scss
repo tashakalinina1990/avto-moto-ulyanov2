@@ -1,0 +1,12 @@
+.page-header {
+  margin: 0;
+
+  background-color: $background-grey;
+}
+
+.page-header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 15px 0;
+}
